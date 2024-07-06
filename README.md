@@ -1,6 +1,6 @@
 
-Smart Health Report Generating System
-A decentralized system for managing electronic health records using blockchain and IPFS.
+Smart Health Report Generating System:
+A decentralized system for managing Digital Health Records using Blockchain and IPFS.
 
 # Requirements
  Instructions to install all required dependencies are given below.
